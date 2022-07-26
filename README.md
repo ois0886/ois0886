@@ -1,5 +1,6 @@
 ## oh in seong 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm   in%20seong%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=oh%20in%20seong&fontSize=70)
 
 <!--
 **ois0886/ois0886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
