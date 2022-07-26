@@ -1,5 +1,4 @@
 ## oh in seong 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello&fontSize=70)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=oh%20in%20seong&fontSize=70)
 
 <!--
