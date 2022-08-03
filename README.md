@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ois0886&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ois0886)](https://solved.ac/ois0886) <img src="http://mazandi.herokuapp.com/api?handle=ois0886&theme=warm"/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ois0886)](https://solved.ac/ois0886)<img src="http://mazandi.herokuapp.com/api?handle=ois0886&theme=warm"/>
