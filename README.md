@@ -23,17 +23,11 @@ Here are some ideas to get you started:
 
 한성대학교 컴퓨터 공학부 18학번
 
-📧Gmail 
+📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)
 
-[ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)
+🐱Github : [https://github.com/ois0886](https://github.com/ois0886)
 
-🐱Github
-
-[https://github.com/ois0886](https://github.com/ois0886)
-
-📚Tistory Blog 
-
-[https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
+📚Tistory Blog : [https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
 
 자기 소개 한줄 : 보여주기 위한 개발보단, 속이 단단한 안드로이드 개발자가 되고자 합니다.
 
