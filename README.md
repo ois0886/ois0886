@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 나이 : 1996.06.21
 
-한성대학교 컴퓨터 공학부 18학번
+4년제 대학교 컴퓨터 공학부 18학번
 
 📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)
 
