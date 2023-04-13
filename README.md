@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Android Native
+🌱 I’m currently learning Android Native and Algorithm
 
 ## **자기소개**
 
