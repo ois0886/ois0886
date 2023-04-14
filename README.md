@@ -1,4 +1,4 @@
-## 👋 안녕하세요. 노력을 만드는 KOP 개발자, 오인성 입니다.
+## 👋 안녕하세요. 노력을 만드는 개발자, KOP 오인성 입니다.
 
 <!--
 **ois0886/ois0886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
