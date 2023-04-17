@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🐱Github : [https://github.com/ois0886](https://github.com/ois0886)
 
-📚Tistory Blog : [https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
+📚Study Blog : [https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
 
 자기 소개 한줄 : 보여주기 위한 개발보단, 속이 단단한 안드로이드 개발자가 되고자 합니다.
 
