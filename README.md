@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 * [Pocs App(Android App)](https://github.com/hansung-pocs/blog-android)<br>
 * [디딤돌 프로젝트(Android App)](https://github.com/HSU-Didimdol/Android_PickNumber)<br>
 * [재능 교환마켓(Android App)](https://github.com/GrapeBongBong/Android)<br>
-* [상상스타그램(Android App)](https://github.com/ois0886/SangSangstagram)<br>
 
 
 ### Studying
