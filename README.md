@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## **자기소개**
 
-나이 : 1996.06.21
+나이 : 1996.06.21<br>
 4년제 대학교 컴퓨터 공학부 18학번
 
-📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)
-🐱Github : [https://github.com/ois0886](https://github.com/ois0886)
+📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)<br>
+🐱Github : [https://github.com/ois0886](https://github.com/ois0886)<br>
 📚Study Blog : [https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
 
 자기 소개 한줄 : 보여주기 위한 개발보단, 속이 단단한 안드로이드 개발자가 되고자 합니다.
