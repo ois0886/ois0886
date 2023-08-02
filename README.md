@@ -1,5 +1,6 @@
 ## 👋 Oh In Seong
 
+### 항상 겸손하자!
 <!--
 **ois0886/ois0886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
