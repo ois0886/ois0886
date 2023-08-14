@@ -1,22 +1,8 @@
-## 👋 Oh In Seong
-
-### 항상 겸손하자!
-<!--
-**ois0886/ois0886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 👋 Oh In Seong - Android Developer
 🌱 I’m currently learning Android Native and Algorithm
+1일 1백준, 1일 1포스팅, 1일 1커밋을 기반으로 매일매일 성장하는 것을 목표로 합니다.
+안드로이드 모듈기반 아키텍처와 MVVM, MVI에 관심이 많습니다.
+사용자 중심의 직관적인 UI를 만들어내기 위해서 노력하고 있습니다.
 
 ## **자기소개**
 
