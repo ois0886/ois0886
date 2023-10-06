@@ -1,8 +1,8 @@
-## YNWA!! "팀의 지원과 협업을 손에 꼭 쥔, 문제가 닥쳐도 무릎 꿇지 않는 개발자 오인성입니다."
-## 👋 Oh In Seong - Android Developer
+## 👋 YNWA!! "팀의 지원과 협업을 손에 꼭 쥔, 문제가 닥쳐도 무릎 꿇지 않는 개발자 오인성입니다."
 
 ## Info
-나이 : 1996.06.21<br>
+Oh In Seong - Android Developer <br>
+1996.06.21<br>
 HSU 18 Computer Engineering (2018.03 ~ 2024.02)
 
 📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)<br>
