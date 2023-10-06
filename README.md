@@ -16,18 +16,15 @@ fun Info() {
             .fillMaxHeight()
     ) {
         Text(
-            text = "Oh In Seong - Android Developer",
-            modifier = Modifier
+            text = "Oh In Seong - Android Developer"
         )
 
         Text(
-            text = "1996.06.21",
-            modifier = Modifier
+            text = "1996.06.21"
         )
 
         Text(
-            text = "HSU 18 Computer Engineering (2018.03 ~ 2024.02)",
-            modifier = Modifier
+            text = "HSU 18 Computer Engineering (2018.03 ~ 2024.02)"
         )
     }
 }
