@@ -50,7 +50,7 @@ Lesson
 - 팀원들의 자율성을 끌어내기 위한 법을 고민하게 됨.
 <br>
 
-### 재능마켓
+### [재능마켓](https://github.com/GrapeBongBong/Android) (작성중)
 2022.12 ~ 2023.06(6개월)<br>
 <!-- 여기는 나중에 추가
 Fact
@@ -65,7 +65,7 @@ Lesson
 <br>
 -->
 
-### 디딤돌 프로젝트
+### [디딤돌 프로젝트](https://github.com/HSU-Didimdol/Android_PickNumber) (작성중)
 2022.12 ~ 2023.06(6개월)<br>
 <!-- 여기는 나중에 추가
 Fact
