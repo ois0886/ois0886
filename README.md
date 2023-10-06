@@ -1,7 +1,8 @@
-## You Will Never Walk Alone, "팀의 지원과 협업을 손에 꼭 쥔, 문제가 닥쳐도 무릎 꿇지 않는 개발자 오인성입니다."
+## You Will Never Walk Alone, 
+## "팀의 지원과 협업을 손에 꼭 쥔, 문제가 닥쳐도 무릎 꿇지 않는 개발자 오인성입니다."
 ## 👋 Oh In Seong - Android Developer
 
-## **Info**
+## Info
 나이 : 1996.06.21<br>
 HSU 18 Computer Engineering (2018.03 ~ 2024.02)
 
