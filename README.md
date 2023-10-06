@@ -6,10 +6,40 @@ Android 모바일 앱 개발을 개발하고 있습니다. 3개의 안드로이�
 제가 생각하는 개발에 있어서 가장 중요한 가치는 "공유" 라고 생각합니다. 처음 개발을 시작하면서 제가 지금까지 오는데까지 있어서 수없이 많은 사람들에게 도움을 받고, 배웠습니다. 그래서 지금은 현재 제가 스스로 배우고, 알게된 내용을 블로그를 통해서 최대한 기록을 하여 많은 사람들에게 도움이 되기 위해서 노력하고 있습니다. 
 
 ## Info
-Oh In Seong - Android Developer <br>
-1996.06.21<br>
-HSU 18 Computer Engineering (2018.03 ~ 2024.02)
+```kotlin
+@Composable
+fun Info() {
+    Column(
+        modifier = Modifier
+            .padding(horizontal = 24.dp)
+            .fillMaxWidth()
+            .fillMaxHeight()
+    ) {
+        Text(
+            text = "Oh In Seong - Android Developer",
+            modifier = Modifier
+        )
 
+        Text(
+            text = "1996.06.21",
+            modifier = Modifier
+        )
+
+        Text(
+            text = "HSU 18 Computer Engineering (2018.03 ~ 2024.02)",
+            modifier = Modifier
+        )
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun InfoPreview() {
+    MyApplicationTheme {
+        Info()
+    }
+}
+```
 📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)<br>
 🐱Github : [https://github.com/ois0886](https://github.com/ois0886)<br>
 📚Study Blog : [https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
