@@ -61,10 +61,10 @@ fun InfoPreview() {
 -->
 
 ## Projects
-
+<!-- 여기는 나중에 추가
 ### 콥알림이(진행중)
 2023.10 ~ ing<br>
-<!-- 여기는 나중에 추가
+
 Fact
 - 총 4명의 인원(Server 2명, Android 1명, IOS 1명)이 팀을 구성하여 시작하게 된 6개월 졸업 작품
 - 실제 프로젝트 기획부터 디자인까지 직접 만들며, 요구사항을 실제로 작성하며 스프린트를 진행함.
@@ -141,6 +141,13 @@ Android 멘토로서 1년간 활동하며 총 4개의 스터디를 운영(알고
 기한 : 2023.10 ~ (ING) <br>
 2023 코드프레소 웹 개발 컨테스트를 통하여 참여하게 됨. <br>
 국민 내일 배움 카드를 사용하여 코드프레소에서 제공한 웹 개발 강의(Java, Spring, Git, SQL)를 수강하고 있음. <br>
+
+## Certifications
+SQLD
+
+컴퓨터 활용능력 1급
+
+OPIC IL
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark)
