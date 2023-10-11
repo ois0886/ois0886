@@ -44,21 +44,12 @@ fun InfoPreview() {
 ## Technical Skills
 ### Language
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=JAVA&logoColor=black"> 
-<!-- 여기는 나중에 추가
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
--->
 
 ### Framework
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
-<!-- 여기는 나중에 추가
-<img src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=Fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> 
--->
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"> 
-<!-- 여기는 나중에 추가
-<img src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=white">
--->
 
 ## Projects
 <!-- 여기는 나중에 추가
@@ -75,11 +66,10 @@ Lesson
 - 
 - 
 <br>
--->
 
 ### [재능마켓](https://github.com/GrapeBongBong/Android) (작성중)
 2022.12 ~ 2023.06(6개월)<br>
-<!-- 여기는 나중에 추가
+
 Fact
 - 총 4명의 인원(Server 2명, Android 1명, IOS 1명)이 팀을 구성하여 시작하게 된 6개월 졸업 작품
 - 실제 프로젝트 기획부터 디자인까지 직접 만들며, 요구사항을 실제로 작성하며 스프린트를 진행함.
@@ -90,11 +80,11 @@ Lesson
 - 
 - 
 <br>
--->
+
 
 ### [디딤돌 프로젝트](https://github.com/HSU-Didimdol/Android_PickNumber) (작성중)
 2022.12 ~ 2023.06(6개월)<br>
-<!-- 여기는 나중에 추가
+
 Fact
 - 
 - 
@@ -146,14 +136,14 @@ Android 멘토로서 1년간 활동하며 총 4개의 스터디를 운영(알고
 국민 내일 배움 카드를 사용하여 코드프레소에서 제공한 웹 개발 강의(Java, Spring, Git, SQL)를 수강하고 있음. 
 <br>
 <br>
-
+<!-- 여기는 나중에 추가
 ## Certifications
 SQLD
 
 컴퓨터 활용능력 1급
 
 OPIC IL
-
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark)
 
