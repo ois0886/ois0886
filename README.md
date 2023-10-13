@@ -50,9 +50,8 @@ fun InfoPreview() {
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"> 
-
-## Projects
 <!-- 여기는 나중에 추가
+## Projects
 ### 콥알림이(진행중)
 2023.10 ~ ing<br>
 
@@ -95,7 +94,6 @@ Lesson
 - 
 - 
 <br>
--->
 
 ### [POCS](https://github.com/hansung-pocs/blog-android)
 2022.07 ~ 2022.09(3개월)<br>
@@ -111,6 +109,8 @@ Lesson
 - 안드로이드 파트에서 팀장을 맡아서 다른 팀(Server, Front)와 대화를 하는 법을 배움
 - 팀원들의 자율성을 끌어내기 위한 법을 고민하게 됨.
 <br>
+
+-->
 
 ## Education
 
