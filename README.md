@@ -52,50 +52,39 @@ fun InfoPreview() {
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"> 
 
 ## Projects
-<!-- 여기는 나중에 추가
-### 콥알림이(진행중)
-2023.10 ~ ing<br>
+<details>
+<summary>Bong Shop(재능마켓)</summary>
+<br>
 
-Fact
+![Thumbnail](https://github.com/GrapeBongBong/Android/assets/58154638/a2f7aab4-991d-4180-a038-9c16b4e2f064) <br>
+
+[깃허브 바로가기](https://github.com/GrapeBongBong/Android) <br>
+
+### Project period
+- 2022.12 ~ 2023.06(6개월)<br>
+
+### Fact
 - 총 4명의 인원(Server 2명, Android 1명, IOS 1명)이 팀을 구성하여 시작하게 된 6개월 졸업 작품
 - 실제 프로젝트 기획부터 디자인까지 직접 만들며, 요구사항을 실제로 작성하며 스프린트를 진행함.
-- 기존에 존재한 봉사앱과 
 
-Lesson
-- 
-- 
-- 
-<br>
-
-### [재능마켓](https://github.com/GrapeBongBong/Android) (작성중)
-2022.12 ~ 2023.06(6개월)<br>
-
-Fact
-- 총 4명의 인원(Server 2명, Android 1명, IOS 1명)이 팀을 구성하여 시작하게 된 6개월 졸업 작품
-- 실제 프로젝트 기획부터 디자인까지 직접 만들며, 요구사항을 실제로 작성하며 스프린트를 진행함.
-- 기존에 존재한 봉사앱과 
-
-Lesson
-- 
-- 
-- 
-<br>
-
-
-### [디딤돌 프로젝트](https://github.com/HSU-Didimdol/Android_PickNumber) (작성중)
-2022.12 ~ 2023.06(6개월)<br>
-
-Fact
+### Lesson
 - 
 - 
 - 
 
-Lesson
-- 
-- 
-- 
-<br>
--->
+### TechStack
+- Coroutine
+- Paging3
+- View Binding
+- ViewModel
+- Hilt
+- Dagger
+- Glide
+- Retrofit2
+- OkHttp3
+
+</details>
+
 <details>
 <summary>POCS 블로그</summary>
 <br>
@@ -104,6 +93,9 @@ Lesson
 
 ### Project period
 - 2022.07 ~ 2022.09(3개월)<br>
+
+### Refoctor period
+- 2022.09 ~ 2022.10(1개월)<br>
 
 ### Fact
 - 초기 11명의 규모에서 프로젝트를 진행함. (백엔드 2명, 안드로이드 2명, 프론트엔드 5명, PM 2명)
