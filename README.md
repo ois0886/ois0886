@@ -97,24 +97,24 @@ Lesson
 <br>
 -->
 <details>
-<summary>POCS Blog APP</summary>
-
-[깃허브 바로가기](https://github.com/hansung-pocs/blog-android)
+<summary>POCS 블로그</summary>
+<br>
+[깃허브 바로가기](https://github.com/hansung-pocs/blog-android) <br>
     
 2022.07 ~ 2022.09(3개월)<br>
 
-Fact
-- 초기 12명 규모에서 프로젝트를 진행함. (백엔드 4명, 안드로이드 2명, 프론트엔드 6명)
+### Fact
+- 초기 11명의 규모에서 프로젝트를 진행함. (백엔드 2명, 안드로이드 2명, 프론트엔드 5명, PM 2명)
 - 프로젝트를 위한 안드로이드 학습기간 2주를 거친 후에 스프린트 8주 + 유지보수 기간 3주를 통해서 실제 앱을 구글 앱 스토어에 출시함.
 - 기본적인 안드로이드 기술 스택 뿐만 아니라 [클린 아키텍처](https://superohinsung.tistory.com/74)와 [MVVM](https://superohinsung.tistory.com/66)을 공부해서 실제로 프로젝트를 적용하고 이를 블로그에 글로 게시함.
 
-Lesson
+### Lesson
 - 학습과 프로젝트에 있어 중요한 것은 과정을 기록하는 것에 있음을 깨달음.
 - 팀프로젝트를 진행함에 있어서 나 자신이 팔로워 보다는 리더형에 가까운 사람임을 깨달았고, 그럼에도 아직은 부족한 리더라는 것을 알게됨.
 - 안드로이드 파트에서 팀장을 맡아서 다른 팀(Server, Front)와 대화를 하는 법을 배움
 - 팀원들의 자율성을 끌어내기 위한 법을 고민하게 됨.
 
-TechStack
+### TechStack
 - Coroutine
 - Paging3
 - View Binding
