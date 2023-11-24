@@ -103,7 +103,7 @@ Lesson
 [깃허브 바로가기](https://github.com/hansung-pocs/blog-android) <br>
 
 ### Project period
-2022.07 ~ 2022.09(3개월)<br>
+- 2022.07 ~ 2022.09(3개월)<br>
 
 ### Fact
 - 초기 11명의 규모에서 프로젝트를 진행함. (백엔드 2명, 안드로이드 2명, 프론트엔드 5명, PM 2명)
