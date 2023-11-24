@@ -50,8 +50,9 @@ fun InfoPreview() {
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"> 
-<!-- 여기는 나중에 추가
+
 ## Projects
+<!-- 여기는 나중에 추가
 ### 콥알림이(진행중)
 2023.10 ~ ing<br>
 
@@ -94,8 +95,12 @@ Lesson
 - 
 - 
 <br>
+-->
+<details>
+<summary>POCS Blog APP</summary>
 
-### [POCS](https://github.com/hansung-pocs/blog-android)
+[깃허브 바로가기](https://github.com/hansung-pocs/blog-android)
+    
 2022.07 ~ 2022.09(3개월)<br>
 
 Fact
@@ -108,9 +113,23 @@ Lesson
 - 팀프로젝트를 진행함에 있어서 나 자신이 팔로워 보다는 리더형에 가까운 사람임을 깨달았고, 그럼에도 아직은 부족한 리더라는 것을 알게됨.
 - 안드로이드 파트에서 팀장을 맡아서 다른 팀(Server, Front)와 대화를 하는 법을 배움
 - 팀원들의 자율성을 끌어내기 위한 법을 고민하게 됨.
-<br>
 
--->
+TechStack
+- Coroutine
+- Paging3
+- View Binding
+- ViewModel
+- Compose
+- Hilt
+- Dagger
+- Glide
+- Retrofit2
+- OkHttp3
+- Espresso
+- Github Action(CI/CD)
+
+</details>
+<br>
 
 ## Education
 
