@@ -68,9 +68,8 @@ fun InfoPreview() {
 - 실제 프로젝트 기획부터 디자인까지 직접 만들며, 요구사항을 실제로 작성하며 스프린트를 진행함.
 
 ### Lesson
-- 
-- 
-- 
+- iOS는 Human Interface Guidelines를 준수하여 강조된 사용자 경험과 디자인 가이드라인이 존재하며, Android의 경우 Material Design 가이드라인을 따르며, 다소 다른 사용자 경험을 제공. 이에 프로젝트에 있어서 동일한 디자인을 제공하기 위하여 Ui를 맞춰나가는 작업을 진행함.
+- 서버와의 협업을 통해서 채팅 기능을 구현. 이를 통해서 실시간 통신과 WebSocket에 대한 것들을 공부.
 
 ### TechStack
 - Coroutine
