@@ -101,7 +101,8 @@ Lesson
 <br>
 
 [깃허브 바로가기](https://github.com/hansung-pocs/blog-android) <br>
-    
+
+### Project period
 2022.07 ~ 2022.09(3개월)<br>
 
 ### Fact
