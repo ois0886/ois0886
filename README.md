@@ -69,7 +69,7 @@ fun InfoPreview() {
 
 <!--
 ### Lesson
-- iOS는 Human Interface Guidelines를 준수하여 강조된 사용자 경험과 디자인 가이드라인이 존재하며, Android의 경우 Material Design 가이드라인을 따르며, 다소 다른 사용자 경험을 제공. 이에 프로젝트에 있어서 동일한 디자인을 제공하기 위하여 Ui를 맞춰나가는 작업을 진행함.
+- iOS는 Human Interface Guidelines를 준수하며 Android의 경우 Material Design 가이드라인을 따르기에 Ui가 일관성이 없게 나타날 때가 많은 문제점이 발생하였으나, 이러한 
 - 서버와의 협업을 통해서 채팅 기능을 구현. 이를 기반으로 이후 실시간 통신과 WebSocket에 대한 것들을 공부.
 -->
 
@@ -93,14 +93,14 @@ fun InfoPreview() {
 [깃허브 바로가기](https://github.com/hansung-pocs/blog-android) <br>
 
 ### Project period
-- 2022.07 ~ 2022.09(3개월)<br>
+- 2022.07 ~ 2022.08(2개월)<br>
 
 ### Refoctor period
-- 2022.09 ~ 2022.10(1개월)<br>
+- 2022.09(1개월)<br>
 
 ### Fact
 - 초기 11명의 규모에서 프로젝트를 진행함. (백엔드 2명, 안드로이드 2명, 프론트엔드 5명, PM 2명)
-- 프로젝트를 위한 안드로이드 학습기간 2주를 거친 후에 스프린트 8주 + 유지보수 기간 3주를 통해서 실제 앱을 구글 앱 스토어에 출시함.
+- 프로젝트를 위한 안드로이드 학습기간 2주를 거친 후에 스프린트 8주 + 리팩토링 4주를 통해서 실제 앱을 구글 앱 스토어에 출시함.
 - 기본적인 안드로이드 기술 스택 뿐만 아니라 [클린 아키텍처](https://superohinsung.tistory.com/74)와 [MVVM](https://superohinsung.tistory.com/66)을 공부해서 실제로 프로젝트를 적용하고 이를 블로그에 글로 게시함.
 
 <!--
