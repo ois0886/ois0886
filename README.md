@@ -90,6 +90,8 @@ fun InfoPreview() {
 <summary>POCS 블로그 Android Part</summary>
 <br>
 
+![깃허브 바로가기](https://github.com/ois0886/ois0886/assets/58154638/3a53e31a-485b-4c82-8551-0b29e5507dcf) <br>
+
 [깃허브 바로가기](https://github.com/hansung-pocs/blog-android) <br>
 
 ### Project period
