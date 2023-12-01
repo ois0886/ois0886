@@ -67,12 +67,6 @@ fun InfoPreview() {
 - 총 4명의 인원(Server 2명, Android 1명, IOS 1명)이 팀을 구성하여 시작하게 된 6개월 졸업 작품
 - 실제 프로젝트 기획부터 디자인까지 직접 만들며, 요구사항을 실제로 작성하며 스프린트를 진행함.
 
-<!--
-### Lesson
-- iOS는 Human Interface Guidelines를 준수하며 Android의 경우 Material Design 가이드라인을 따르기에 Ui가 일관성이 없게 나타날 때가 많은 문제점이 발생하였으나, 이러한 
-- 서버와의 협업을 통해서 채팅 기능을 구현. 이를 기반으로 이후 실시간 통신과 WebSocket에 대한 것들을 공부.
--->
-
 ### TechStack
 - Coroutine
 - Paging3
@@ -102,16 +96,13 @@ fun InfoPreview() {
 
 ### Fact
 - 초기 11명의 규모에서 프로젝트를 진행함. (백엔드 2명, 안드로이드 2명, 프론트엔드 5명, PM 2명)
-- 프로젝트를 위한 안드로이드 학습기간 2주를 거친 후에 스프린트 8주 + 리팩토링 4주를 통해서 실제 앱을 구글 앱 스토어에 출시함.
-- 기본적인 안드로이드 기술 스택 뿐만 아니라 [클린 아키텍처](https://superohinsung.tistory.com/74)와 [MVVM](https://superohinsung.tistory.com/66)을 공부해서 실제로 프로젝트를 적용하고 이를 블로그에 글로 게시함.
-
-<!--
-### Lesson
-- 학습과 프로젝트에 있어 중요한 것은 과정을 기록하는 것에 있음을 깨달음.
-- 팀프로젝트를 진행함에 있어서 나 자신이 팔로워 보다는 리더형에 가까운 사람임을 깨달았고, 그럼에도 아직은 부족한 리더라는 것을 알게됨.
-- 안드로이드 파트에서 팀장을 맡아서 다른 팀(Server, Front)와 대화를 하는 법을 배움
-- 팀원들의 자율성을 끌어내기 위한 법을 고민하게 됨.
--->
+- 프로젝트를 위한 안드로이드 학습기간 2주를 거친 후에 스프린트 8주, 리팩토링 4주를 통해서 실제 앱을 구글 앱 스토어에 출시
+- 확장성을 고려한 [클린 아키텍처](https://superohinsung.tistory.com/74)와 [MVVM](https://superohinsung.tistory.com/66) 사용 및 이를 사용하기 위한 스터디를 개최하여 블로그에 기록
+- 부분적 Compose를 이용한 UI 개발
+- Server Part와 협업을 통한 Retrofit을 이용한 개발
+- Github Action을 이용한 CI/CD 구축
+- 유닛 테스트 및 UI 테스트 작성
+- Hilt를 이용한 의존성 주입 통해서 Domain, Data, Presentation Layer 분리
 
 ### TechStack
 - Coroutine
