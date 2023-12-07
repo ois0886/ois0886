@@ -81,10 +81,39 @@ fun InfoPreview() {
 </details>
 
 <details>
+<summary>디딤돌 프로젝트</summary>
+<br>
+
+![Thumbnail](https://github.com/ois0886/ois0886/assets/58154638/4254d82a-6541-49b8-bd49-eba06dfcdb12)
+
+[깃허브 바로가기](https://github.com/HSU-Didimdol/Android_PickNumber)
+
+대학교 전공동아리에서 외부 회사와의 협업을 제작한 예약, 사이트 방문, 빠른 길 찾기가 가능한 지능형 온라인 예약 시스템 안드로이드 어플리케이션입니다.
+서비스 설명 고객이 필요에 의한 다양한 서비스 업종의 접수 및 예약을 실 현장이 아닌 온라인으로 언제 어디서든 주변의 필요한 서비스 업종을 검색하고 검색된 업체 정보를( 위치, 업무( 종류, 시간, 혼잡도 ), 교통 수단에 따른 거리 및 이동 경로 등 ) 제공함으로써 고객의 서비스 접수 및 예약에 지능형 검색 서비스를 제공합니다.
+
+### Project period
+- 2023.01 ~ 2023.06(6개월) <br>
+
+### Fact
+- NaverMap Api를 Android 연결 및 사용
+- Marker를 이용하여 사용자 현재 위치에 따른 주변 가게 위치 표시
+- SearchView를 이용한 검색관련 목록 표시
+
+### TechStack
+- Coroutine
+- View Binding
+- ViewModel
+- Glide
+- Retrofit2
+- OkHttp3
+
+</details>
+
+<details>
 <summary>POCS 블로그 Android Part</summary>
 <br>
 
-![깃허브 바로가기](https://github.com/ois0886/ois0886/assets/58154638/3a53e31a-485b-4c82-8551-0b29e5507dcf) <br>
+![Thumbnail](https://github.com/ois0886/ois0886/assets/58154638/3a53e31a-485b-4c82-8551-0b29e5507dcf) <br>
 
 [깃허브 바로가기](https://github.com/hansung-pocs/blog-android) <br>
 
@@ -131,28 +160,20 @@ fun InfoPreview() {
 
 ### POCS
 한성대학교 학술 소모임 POCS <br>
-활동 기한 : 2022.07 ~ (ING) <br>
+활동 기한 : 2022.07 ~ 2023.12 <br>
 Android 멘토로서 1년간 활동하며 총 4개의 스터디(알고리즘 스터디, 자바 스터디, 코딩테스트 대비 스터디, 면접 스터디)를 운영함. <br>
 
 ### DC&M
 한성대학교 전공 동아리 DC&M <br>
-활동 기한 : 2022.07 ~ (ING) <br>
+활동 기한 : 2022.07 ~ 2023.12 <br>
 동아리를 활동하며 Android 스터디를 운영함. <br>
 
 ### 코드프레소 
-기한 : 2023.10 ~ (ING) <br>
+기한 : 2023.10 ~ 2023.12 <br>
 2023 코드프레소 웹 개발 컨테스트를 통하여 참여하게 됨. <br>
-국민 내일 배움 카드를 사용하여 코드프레소에서 제공한 웹 개발 강의(Java, Spring, Git, SQL)를 수강하고 있음. 
+국민 내일 배움 카드를 사용하여 코드프레소에서 제공한 웹 개발 강의(Java, Spring, Git, SQL)를 수강하였습니다.
 <br>
 <br>
-<!-- 여기는 나중에 추가
-## Certifications
-SQLD
-
-컴퓨터 활용능력 1급
-
-OPIC IL
--->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark)
 
