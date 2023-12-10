@@ -133,7 +133,7 @@ NaverMapAPI SearchView를 활용하여 앱을 제작하며 실제 회사에서 �
 ### Fact
 - 초기 11명의 규모에서 프로젝트를 진행함. (백엔드 2명, 안드로이드 2명, 프론트엔드 5명, PM 2명)
 - 프로젝트를 위한 안드로이드 학습기간 2주를 거친 후에 스프린트 8주, 리팩토링 4주를 통해서 실제 앱을 구글 앱 스토어에 출시
-- 확장성을 고려한 [클린 아키텍처](https://superohinsung.tistory.com/74)와 [MVVM](https://superohinsung.tistory.com/66) 사용 및 이를 사용하기 위한 스터디를 개최하여 블로그에 기록
+- 확장성을 고려한 [클린 아키텍처](https://superohinsung.tistory.com/74)와 [MVVM](https://superohinsung.tistory.com/66) 사용
 - 부분적 Compose를 이용한 UI 개발
 - Server Part와 협업을 통한 Retrofit을 이용한 개발
 - Github Action을 이용한 CI/CD 구축
