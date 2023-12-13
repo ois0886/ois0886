@@ -175,11 +175,6 @@ Android 멘토로서 1년간 활동하며 총 4개의 스터디(알고리즘 스
 활동 기한 : 2022.07 ~ 2023.12 <br>
 동아리를 활동하며 Android 스터디를 운영함. <br>
 
-### 코드프레소 
-기한 : 2023.10 ~ 2023.12 <br>
-2023 코드프레소 웹 개발 컨테스트를 통하여 참여하게 됨. <br>
-국민 내일 배움 카드를 사용하여 코드프레소에서 제공한 웹 개발 강의(Java, Spring, Git, SQL)를 수강하였습니다.
-<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark)
