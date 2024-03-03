@@ -1,6 +1,3 @@
-
-<img src="https://github.com/ois0886/ois0886/assets/58154638/8a80a2ff-bc40-4b65-822e-cce1fadc41c6"  width="275" height="325"/>
-
 ## 👋 YNWA!! "부족한 부분을 보완하고 이를 강점으로 발전시키는 오인성입니다."
 Android 모바일 앱 개발을 지망하고 있습니다. 대학교 재학 시절 3개의 안드로이드 앱 개발 프로젝트를 경험하였습니다. 최근에는 Compose UI와 MVVM, MVI 개발에 관심이 많아서 공부하고 있습니다.
 
