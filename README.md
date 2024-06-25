@@ -32,7 +32,9 @@ fun InfoPreview() {
 ```
 📧Gmail : [ohinsung64@gmail.com](mailto:ohinsung64@gmail.com)<br>
 🐱Github : [https://github.com/ois0886](https://github.com/ois0886)<br>
-📚Study Blog : [https://superohinsung.tistory.com/](https://superohinsung.tistory.com/)
+<br>
+📚Study Blog : [바로가기](https://superohinsung.tistory.com/)<br>
+🏢Portfolio : [바로가기](https://alluring-candytuft-fa0.notion.site/Ohinseong-ee594cdcfb7a4ec0aa368f6728c8b724)<br>
 
 ## Technical Skills
 ### Language
