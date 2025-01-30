@@ -52,39 +52,6 @@ PlayStore: https://play.google.com/store/apps/details?id=com.pocs.blog<br>
 Stack: Kotlin 1.7.2, Jetpack Compose, Paging3, Hilt, Retrofit2, Okhttp3, Junit4, Espresso, Glide, Coroutine, GitHub CI/CD<br>
 - 일부 XML기반 View를 Compose Ui로 대체하여 코드의 재사용성을 높이고 Ui 구성 요소를 간소화.
 - Paging3를 도입하여 대용량 JSON 데이터 처리 시 Ui 로딩 속도를 최적화
-
-```kotlin
-@Composable
-fun Info() {
-    Column(
-        modifier = Modifier
-            .padding(horizontal = 24.dp)
-            .fillMaxWidth()
-            .fillMaxHeight()
-    ) {
-        Text(
-            text = "Oh In Seong - Android Developer"
-        )
-
-        Text(
-            text = "1996.06.21"
-        )
-
-        Text(
-            text = "HSU 18 Computer Engineering (2018.03 ~ 2024.02)"
-        )
-    }
-}
-
-@Preview(showBackground = true)
-@Composable
-fun InfoPreview() {
-    MyApplicationTheme {
-        Info()
-    }
-}
-```
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark)
+<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ois0886)](https://solved.ac/ois0886)<img src="http://mazandi.herokuapp.com/api?handle=ois0886&theme=warm"/>
