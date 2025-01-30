@@ -3,14 +3,16 @@ Contact: ohinsung64@gmail.com    GitHub: https://github.com/ois0886 <br>
 Blog: https://superohinsung.tistory.com/
 
 ## Education
-한성대학교 컴퓨터공학부 18학번
+### 한성대학교 컴퓨터공학부 18학번
+- 2018.03 ~ 2024.02
 - 모바일소프트웨어 트랙 / 빅데이터 트랙 (GPA 3.18/4.5)
 - 교내 지식 나눔 프로젝트 “알고리즘을 공부하는 방법” 강연
 - 교내 SW 교육캠프 조교
 - POCS 교내 전공 소모인 안드로이드 멘토
 - DC&M 교내 전공 동아리 알고리즘 멘토
-<br>
-SSAFY(Samsung Software Academy For Youth) 13기 Mobile Track
+
+### SSAFY(Samsung Software Academy For Youth) 13기 Mobile Track
+- 2025.01 ~ Ing
 
 ## Technical Skills
 ### Programming Languages 
