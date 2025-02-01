@@ -28,7 +28,7 @@ Blog: https://superohinsung.tistory.com/
 - OPIC(English) IH
 
 ## Project
-### 기술 블로그 추천 React Native 앱 (Bite-knowledge)
+### 기술 블로그 추천 React Native 앱 (Bite-sized knowledge)
 2025.01 ~ Ing<br>
 : 내가 원하는 기술블로그들을 하나로 모아 내가 보고싶은 것만 간편하게 볼 수 있는 한입 지식<br>
 GitHub: https://github.com/bite-sized-knowledge/frontend<br>
