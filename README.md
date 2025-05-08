@@ -58,7 +58,7 @@ _졸업작품 / 2022.12 ~ 2023.06_
 _2022.07 ~ 2022.09_  
 [GitHub](https://github.com/hansung-pocs/blog-android) / [PlayStore](https://play.google.com/store/apps/details?id=com.pocs.blog)  
 **Stack:** Kotlin, Jetpack Compose, Paging3, CI/CD, Hilt, Retrofit2  
-- XML UI를 Compose로 전환해 구성 요소 간결화  
+- 일부 XML UI를 Compose로 전환해 구성 요소 간결화  
 - Paging3를 활용한 대용량 데이터의 효율적 로딩 처리  
 - GitHub Actions로 CI/CD 파이프라인 구성
 
