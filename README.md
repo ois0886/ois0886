@@ -46,7 +46,7 @@ ohinsung64@gmail.com
 ## Projects
 
 ### **QuizCafe - 퀴즈 기반 학습 Android 앱 (진행 중)**
-_2025.04 ~ 진행 중_
+_2025.04 ~ 진행 중_ <br>
 **Stack:** Kotlin, Jetpack Compose, MVI, Hilt, Retrofit2, Coroutine
 - 전체 화면을 Jetpack Compose로 구현하고, **MVI 패턴을 기반으로 상태/이벤트/효과를 명확하게 관리**
 - 기능별 모듈 분리를 통해 **추후, 단일 모듈에서 다중 모듈 아키텍처로 전환 예정**
