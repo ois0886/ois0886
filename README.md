@@ -46,21 +46,31 @@ ohinsung64@gmail.com
 ## Projects
 
 ### **Bong# - 재능 교환 마켓 Android 앱**  
-_졸업작품 / 2022.12 ~ 2023.06_  
+_한성대학교 캡스톤디자인(졸업작품) 출품 프로젝트 / 2022.12 ~ 2023.06_  
 [GitHub 바로가기](https://github.com/GrapeBongBong/Android)  
-**Stack:** Kotlin, Hilt, Retrofit2, OkHttp3, Coroutine, WebSocket  
-- MVVM 및 Repository 패턴을 적용해 유지보수성 높은 구조 설계  
-- 실시간 1:1 채팅 기능을 WebSocket으로 구현
+**Stack:** Kotlin 1.8.0, Hilt, Retrofit2, Okhttp3, Glide, Coroutine, Websocket
+- MVVM과 Repository 패턴을 적용하여 앱 아키텍처 개선
+- 사용자 간 상호작용을 강화하기 위해 WebSocket을 이용하여 실시간 1:1 채팅 기능 구현
+
+---
+
+### **Didindol - 위치 기반 순번 예약 Android 앱**  
+_㈜PickNumber회사와 한성대학교 DC&M 동아리 연계 프로젝트 / 2023.01 ~ 2023.05_  
+[GitHub](https://github.com/hansung-pocs/blog-android) / [PlayStore](https://play.google.com/store/apps/details?id=com.pocs.blog)  
+**Stack:** Kotlin 1.7.2, Retrofit2, Okhttp3, Hilt, Dagger, Room, Coroutine, NaverMap API, Directions5 
+- SearchVIew 검색시 발생하는 반복적인 거리 계산 병목 현상을 개선하기 위해서 모든 업체의 거리 데이터를 앱 최초 실행 시 계산 후 RoomDB에 캐싱하여 성능 최적화
+- 거리 기반 정렬 및 필터링 구현을 통해 사용자 중심의 업체 탐색 흐름 제공
+- ViewModel과 Coroutine을 활용하여 비동기 처리와 로컬 DB연계를 안정적으로 구현
 
 ---
 
 ### **POCS - 전공 소모임 커뮤니티 Android 앱**  
-_2022.07 ~ 2022.09_  
+_한성대학교 전공 소모임 POCS 회원들을 위한 커뮤니티 Android 앱 / 2022.07 ~ 2022.09_  
 [GitHub](https://github.com/hansung-pocs/blog-android) / [PlayStore](https://play.google.com/store/apps/details?id=com.pocs.blog)  
 **Stack:** Kotlin, Jetpack Compose, Paging3, CI/CD, Hilt, Retrofit2  
-- 일부 XML UI를 Compose로 전환해 구성 요소 간결화  
-- Paging3를 활용한 대용량 데이터의 효율적 로딩 처리  
-- GitHub Actions로 CI/CD 파이프라인 구성
+- 일부 XML기반 View를 Compose Ui로 대체하여 코드의 재사용성을 높이고 Ui 구성 요소를 간소화.
+- Paging3를 도입하여 대용량 JSON 데이터 처리 시 Ui 로딩 속도를 최적화
+- Github Actions를 통한 CI/CD 자동화 구성으로 배포 효율성 확보
 
 ---
 
