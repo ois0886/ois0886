@@ -62,7 +62,7 @@ _한성대학교 캡스톤디자인(졸업작품) 출품 프로젝트 / 2022.12 
 
 ---
 
-### **Didindol - 위치 기반 순번 예약 Android 앱**  
+### **Didimdol - 위치 기반 순번 예약 Android 앱**  
 _㈜PickNumber회사와 한성대학교 DC&M 동아리 연계 프로젝트 / 2023.01 ~ 2023.05_  
 [GitHub](https://github.com/hansung-pocs/blog-android) / [PlayStore](https://play.google.com/store/apps/details?id=com.pocs.blog)  
 **Stack:** Kotlin 1.7.2, Retrofit2, Okhttp3, Hilt, Dagger, Room, Coroutine, NaverMap API, Directions5 
