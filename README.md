@@ -67,7 +67,6 @@ _㈜PickNumber회사와 한성대학교 DC&M 동아리 연계 프로젝트 / 202
 [GitHub](https://github.com/hansung-pocs/blog-android) / [PlayStore](https://play.google.com/store/apps/details?id=com.pocs.blog)  
 **Stack:** Kotlin 1.7.2, Retrofit2, Okhttp3, Hilt, Dagger, Room, Coroutine, NaverMap API, Directions5 
 - SearchVIew 검색시 발생하는 반복적인 거리 계산 병목 현상을 개선하기 위해서 모든 업체의 거리 데이터를 앱 최초 실행 시 계산 후 RoomDB에 캐싱하여 성능 최적화
-- 거리 기반 정렬 및 필터링 구현을 통해 사용자 중심의 업체 탐색 흐름 제공
 - ViewModel과 Coroutine을 활용하여 비동기 처리와 로컬 DB연계를 안정적으로 구현
 
 ---
