@@ -81,7 +81,7 @@ _한성대학교 전공 소모임 POCS 회원들을 위한 커뮤니티 Android 
 
 ---
 
-## Algorithm & Problem Solving
+## Algorithm Solving
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ois0886)](https://solved.ac/ois0886)
 <img src="http://mazandi.herokuapp.com/api?handle=ois0886&theme=warm" />
