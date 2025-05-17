@@ -56,7 +56,7 @@ _2025.04 ~ 진행 중_ <br>
 
 ### **Bong# - 재능 교환 마켓 Android 앱**  
 _한성대학교 캡스톤디자인(졸업작품) 출품 프로젝트 / 2022.12 ~ 2023.06_  
-[GitHub 바로가기](https://github.com/GrapeBongBong/Android)  
+[GitHub 바로가기](https://github.com/GrapeBongBong/Android) <br>
 **Stack:** Kotlin 1.8.0, Hilt, Retrofit2, Okhttp3, Glide, Coroutine, Websocket
 - MVVM과 Repository 패턴을 적용하여 앱 아키텍처 개선
 - 사용자 간 상호작용을 강화하기 위해 WebSocket을 이용하여 실시간 1:1 채팅 기능 구현
