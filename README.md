@@ -68,7 +68,7 @@ _㈜PickNumber회사와 한성대학교 DC&M 동아리 연계 프로젝트 / 202
 [GitHub](https://github.com/HSU-Didimdol/Android_PickNumber) <br>
 **Stack:** Kotlin 1.7.2, Retrofit2, Okhttp3, Hilt, Dagger, Room, Coroutine, NaverMap API, Directions5 
 - 검색시 반복적인 거리 계산 대신, 앱 최초 실행 시 모든 업체 거리 정보를 계산 후 RoomDB에 캐싱하여 성능 개선
-
+- ViewModel과 Coroutine을 활용하여 비동기 처리와 로컬 DB연계를 안정적으로 구현
 ---
 
 ### **POCS - 전공 소모임 커뮤니티 Android 앱**  
