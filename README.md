@@ -67,7 +67,7 @@ _한성대학교 캡스톤디자인(졸업작품) 출품 프로젝트 / 2022.12 
 _㈜PickNumber회사와 한성대학교 DC&M 동아리 연계 프로젝트 / 2023.01 ~ 2023.05_  
 [GitHub](https://github.com/HSU-Didimdol/Android_PickNumber) <br>
 **Stack:** Kotlin 1.7.2, Retrofit2, Okhttp3, Hilt, Dagger, Room, Coroutine, NaverMap API, Directions5 
-- SearchView 검색시 발생하는 반복적인 거리 계산 병목 현상을 개선하기 위해서 모든 업체의 거리 데이터를 앱 최초 실행 시 계산 후 RoomDB에 캐싱하여 성능 최적화
+- 검색시 반복적인 거리 계산 대신, 앱 최초 실행 시 모든 업체 거리 정보를 계산 후 RoomDB에 캐싱하여 성능 개선
 
 ---
 
