@@ -13,16 +13,16 @@ ohinsung64@gmail.com
 ## Technical Skills
 
 ### Programming Languages
-- Kotlin, Java, Python, C++, JavaScript, TypeScript, HTML, CSS
+- Kotlin, Java, JavaScript, Python, C++!
 
 ### Frameworks & Libraries
-- Android (Jetpack), Spring Boot, Vue.js
+- Android, Spring Boot, Vue.js
 
 ### Database & Cloud
 - MySQL, Firebase
 
 ### Tools
-- Android Studio, IntelliJ, Visual Studio Code, PyCharm, GitHub, CI/CD
+- Android Studio, Visual Studio Code, PyCharm, IntelliJ, GitHub, Jira, Notion
 
 ---
 
@@ -61,14 +61,6 @@ _한성대학교 캡스톤디자인(졸업작품) 출품 프로젝트 / 2022.12 
 - MVVM과 Repository 패턴을 적용하여 앱 아키텍처 개선
 - 사용자 간 상호작용을 강화하기 위해 WebSocket을 이용하여 실시간 1:1 채팅 기능 구현
 
----
-
-### **Didimdol - 위치 기반 순번 예약 Android 앱**  
-_㈜PickNumber회사와 한성대학교 DC&M 동아리 연계 프로젝트 / 2023.01 ~ 2023.05_  
-[GitHub](https://github.com/HSU-Didimdol/Android_PickNumber) <br>
-**Stack:** Kotlin 1.7.2, Retrofit2, Okhttp3, Hilt, Dagger, Room, Coroutine, NaverMapAPI, Directions5 
-- 검색시 반복적인 거리 계산 대신, 앱 최초 실행 시 모든 업체 거리 정보를 계산 후 RoomDB에 캐싱하여 성능 개선
-- ViewModel과 Coroutine을 활용하여 비동기 처리와 로컬 DB연계를 안정적으로 구현
 ---
 
 ### **POCS - 전공 소모임 커뮤니티 Android 앱**  
