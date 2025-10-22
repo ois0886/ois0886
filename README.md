@@ -16,6 +16,5 @@ ohinsung64@gmail.com
 ## Algorithm Solving
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ois0886)](https://solved.ac/ois0886)
-<img src="http://mazandi.herokuapp.com/api?handle=ois0886&theme=warm" />
 
 ---
