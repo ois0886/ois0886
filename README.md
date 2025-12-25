@@ -8,10 +8,6 @@
 ohinsung64@gmail.com   
 [GitHub](https://github.com/ois0886) | [Blog](https://superohinsung.tistory.com/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ois0886&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ois0886&langs_count=8)
-
 
 ## Algorithm Solving
 
