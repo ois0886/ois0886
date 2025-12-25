@@ -6,7 +6,7 @@
 
 **Contact**  
 ohinsung64@gmail.com   
-[GitHub](https://github.com/ois0886) | [Blog](https://superohinsung.tistory.com/)
+[GitHub](https://github.com/ois0886) | [Blog](https://superohinsung.tistory.com/) | [Notion](https://alluring-candytuft-fa0.notion.site/Oh-In-Seong-Portfolio-20586a7a8f8a80aaa9c1fb27862e5076)
 
 
 ## Algorithm Solving
