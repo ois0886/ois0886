@@ -6,7 +6,7 @@
 
 **Contact**  
 ohinsung64@gmail.com   
-[GitHub](https://github.com/ois0886) | [Blog](https://superohinsung.tistory.com/)
+[GitHub](https://github.com/ois0886) | [Blog](https://superohinsung.tistory.com/) | [Web](https://ois0886.github.io/AboutMe/)
 
 
 ## Algorithm Solving
