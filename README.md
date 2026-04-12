@@ -7,10 +7,3 @@
 **Contact**  
 ohinsung64@gmail.com   
 [GitHub](https://github.com/ois0886) | [Blog](https://superohinsung.tistory.com/) | [Web](https://ois0886.github.io/AboutMe/)
-
-
-## Algorithm Solving
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ois0886)](https://solved.ac/ois0886)
-
----
