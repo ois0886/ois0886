@@ -1,6 +1,10 @@
 # 👋 오인성 (InSeong Oh)
 
-안녕하세요, 다양한 프로젝트 경험을 쌓아온 **오인성**입니다. 기술을 통해 실질적인 문제를 해결하는 데 가치를 두고 있으며, 사용자 경험과 성능 최적화에 집중하는 개발을 지향합니다.
+I am an Android/Kotlin developer who focuses on user experience and maintainability. Rather than simply implementing screens, I aim to solve customer problems through stable and well-structured product flows.
+
+I strive to write readable and maintainable code, contribute to team growth through code reviews and AI-assisted development workflows, and continuously improve reliability through testing.
+
+I document my learning and problem-solving process on my blog, and I use past shortcomings as standards for future projects. When communicating, I value evidence-based opinions over intuition and seek better solutions through collaboration.
 
 ---
 
